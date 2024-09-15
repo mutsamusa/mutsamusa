@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutsamusa
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: mutsamusa@live.be
 - ⚡ Fun fact: I could live on rice and chicken only
 
