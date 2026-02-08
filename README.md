@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mutsa!
 
 <!--
 **mutsamusa/mutsamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 📍 Based in Germany
+- 👩🏽‍⚕️ Career transition from healthcare to to the cloud
+- 🎯 Currently preparing for AZ-104 (Azure Administrator)
+
+## What I am working on
+- Azure Virtual Machines
+- Networking (VNets, NSGs)
+- Backup & Monitoring
+- Identity & Access (RBAC)
+
+Hands-on labs coming soon!
