@@ -3,7 +3,7 @@
 <!--
 **mutsamusa/mutsamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 - 📍 Based in Germany
