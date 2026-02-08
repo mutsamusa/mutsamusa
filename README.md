@@ -7,8 +7,8 @@ Here are some ideas to get you started: -->
 
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 - 📍 Based in Germany
-- 👩🏽‍⚕️ Career transition from healthcare to to the cloud
-- 🎯 Currently preparing for AZ-104 (Azure Administrator)
+- 👩🏽‍⚕️ Career transition from healthcare to the cloud
+- 🎯 Currently preparing for the AZ-104 (Azure Administrator)
 
 ## What I am working on
 - Azure Virtual Machines
